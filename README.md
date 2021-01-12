@@ -1,0 +1,1 @@
+# k8s_bitnami_sealed_secrets
